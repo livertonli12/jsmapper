@@ -1,0 +1,23 @@
+{
+    "firstName": "Líverton",
+    "lastName": "Oliveira",
+    "age": "24",
+    "school":"FIAP",
+    "address": {
+        "street":"Rua Padre José Vieira de Matos",
+        "number":"802",
+        "complement":"24 A",
+        "borough":"Artur Alvim",
+        "city":"São Paulo",
+        "state":"São Paulo",
+        "country":"Brasil",
+        "additionalInfo": {
+            "type":"building"
+        }
+    },
+    "scholarity":{
+        "highSchool":"Colégio e Pré Escola Pan Terra",
+        "college":"Faculdades Metropolitanas Unidas",
+        "masters":"FIAP"
+    }
+}
